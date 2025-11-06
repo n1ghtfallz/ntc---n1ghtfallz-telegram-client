@@ -1,6 +1,6 @@
 # ntc telegram client in terminal (cli)
 
-## fully open source telegram client in terminal made with ai
+### fully open source telegram client in terminal made with ai
 
 python packages:
 ```
