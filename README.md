@@ -1,4 +1,9 @@
 # ntc telegram client in terminal (cli)
+python packages:
+```
+pip install telethon python-dotenv
+```
+
 Telegram client in terminal with lot of commands
 to start u need create .env file in folder with .py file
 .env file:
